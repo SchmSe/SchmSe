@@ -7,6 +7,11 @@ I am a **Data Scientist with a background in General Management**, focused on tr
 ![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python&logoColor=%233776AB) ![NumPy](https://img.shields.io/badge/numpy-grey?style=for-the-badge&logo=numpy&logoColor=%23013243) ![Pandas](https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas&logoColor=%23150458) ![scikit-learn](https://img.shields.io/badge/scikit%20learn-grey?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E) ![SQLite](https://img.shields.io/badge/SQLite-grey?style=for-the-badge&logo=SQLite&logoColor=%23003B57) ![R](https://img.shields.io/badge/RStudio-grey?style=for-the-badge&logo=R&logoColor=%23276DC3) ![DATEV](https://img.shields.io/badge/DATEV%20Unternehmen%20online-grey?style=for-the-badge&logo=datev) ![Jupyter](https://img.shields.io/badge/jupyter-grey?style=for-the-badge&logo=jupyter)<br><br>
 
 
+## Programming Skill Showcase
+Make sure you visit my pinned repositroies to check my work!
+Python showcase: https://github.com/SchmSe/Python-GUI-EDA-Tool
+R showcase: Multivariate analysis of large study data on AI usage and empoyee satisfaction (Master-thesis showcase) coming soon!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-schmelzer-902140254) <br><br>
